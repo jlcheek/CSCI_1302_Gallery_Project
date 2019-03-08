@@ -1,0 +1,44 @@
+.root {
+    -fx-background-color:#E30808;
+    -fx-text-fill:#000000;
+}
+.button {
+    -fx-background-color:#E30808;
+    -fx-text-fill:#000000;
+}
+.tool-bar {
+    -fx-background-color:#000000;
+    -fx-text-fill:#000000;
+}
+.menu-bar {
+    -fx-background-color:#E30808;
+    -fx-text-fill:#000000;
+}
+.menu .label {
+    -fx-text-fill:#000000;
+}
+.menu {
+    -fx-background-color:#E30808;
+}
+.menu-item .label {
+    -fx-background-color:#E30808;
+    -fx-text-fill:#000000;
+}
+.menu-item:focused {
+    -fx-background-color:#E30808;
+}
+.menu-item {
+    -fx-background-color:#E30808;
+}
+.text-field {
+    -fx-background-color:#E30808;
+    -fx-text-fill:#000000;
+}
+.progress-bar .bar { 
+    -fx-background-color:#E30808;
+    -fx-box-border:#000000; 
+}
+.progress-bar > .track {
+    -fx-text-box-border: #000000;
+    -fx-control-inner-background: #000000;
+}

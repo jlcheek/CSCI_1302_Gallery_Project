@@ -1,0 +1,137 @@
+cs1302-gallery:
+total 36
+-rw-r--r--. 1 ugrad   209 Oct 21 19:28 Makefile
+-rw-r--r--. 1 ugrad  1946 Oct 21 19:28 pom.xml
+-rw-r--r--. 1 ugrad 20454 Oct 21 19:28 README.md
+-rw-r--r--. 1 ugrad     0 Nov 12 19:53 rec31915
+drwxr-xr-x. 3 ugrad  4096 Oct 21 19:28 src
+drwxr-xr-x. 5 ugrad  4096 Nov 12 14:56 target
+
+cs1302-gallery/src:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 12 19:19 main
+
+cs1302-gallery/src/main:
+total 4
+drwxr-xr-x. 4 ugrad 4096 Nov 12 19:19 java
+
+cs1302-gallery/src/main/java:
+total 8
+drwxr-xr-x. 3 ugrad 4096 Oct 21 19:28 cs1302
+drwxr-xr-x. 2 ugrad 4096 Nov 12 18:32 res
+
+cs1302-gallery/src/main/java/cs1302:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 12 19:49 gallery
+
+cs1302-gallery/src/main/java/cs1302/gallery:
+total 144
+-rw-r--r--. 1 ugrad  2151 Nov 12 19:43 About.class
+-rw-r--r--. 1 ugrad  1836 Nov 12 19:43 About.java
+-rw-r--r--. 1 ugrad  1836 Nov 10 11:34 About.java~
+-rw-r--r--. 1 ugrad   761 Nov 12 19:01 EasterBunny.class
+-rw-r--r--. 1 ugrad   471 Nov 10 11:35 EasterBunny.java
+-rw-r--r--. 1 ugrad   415 Nov  9 23:11 EasterBunny.java~
+-rw-r--r--. 1 ugrad  1633 Nov 12 19:43 GalleryApp$10.class
+-rw-r--r--. 1 ugrad  2047 Nov 12 19:43 GalleryApp$11.class
+-rw-r--r--. 1 ugrad  1350 Nov 12 19:43 GalleryApp$12.class
+-rw-r--r--. 1 ugrad   855 Nov 12 19:43 GalleryApp$13.class
+-rw-r--r--. 1 ugrad  2661 Nov 12 19:43 GalleryApp$1.class
+-rw-r--r--. 1 ugrad   861 Nov 12 19:43 GalleryApp$2.class
+-rw-r--r--. 1 ugrad   825 Nov 12 19:43 GalleryApp$3.class
+-rw-r--r--. 1 ugrad  1251 Nov 12 19:43 GalleryApp$4.class
+-rw-r--r--. 1 ugrad  2500 Nov 12 19:43 GalleryApp$5$1.class
+-rw-r--r--. 1 ugrad  1007 Nov 12 19:43 GalleryApp$5.class
+-rw-r--r--. 1 ugrad  1739 Nov 12 19:43 GalleryApp$6.class
+-rw-r--r--. 1 ugrad  2060 Nov 12 19:43 GalleryApp$7.class
+-rw-r--r--. 1 ugrad  2083 Nov 12 19:43 GalleryApp$8.class
+-rw-r--r--. 1 ugrad  2083 Nov 12 19:43 GalleryApp$9.class
+-rw-r--r--. 1 ugrad  9017 Nov 12 19:43 GalleryApp.class
+-rw-r--r--. 1 ugrad 13582 Nov 12 19:49 GalleryApp.java
+-rw-r--r--. 1 ugrad   739 Nov 12 19:01 Georgia.class
+-rw-r--r--. 1 ugrad   427 Nov 10 11:37 Georgia.java
+-rw-r--r--. 1 ugrad   382 Nov  9 23:33 Georgia.java~
+-rw-r--r--. 1 ugrad   724 Nov 12 19:01 Pumpkin.class
+-rw-r--r--. 1 ugrad   444 Nov 10 11:37 Pumpkin.java
+-rw-r--r--. 1 ugrad   378 Nov  9 23:14 Pumpkin.java~
+-rw-r--r--. 1 ugrad  1588 Nov 12 19:01 Snow.class
+-rw-r--r--. 1 ugrad  1657 Nov 10 11:39 Snow.java
+-rw-r--r--. 1 ugrad  1529 Nov 10 11:10 Snow.java~
+
+cs1302-gallery/src/main/java/res:
+total 344
+-rw-r--r--. 1 ugrad    881 Nov 10 11:39 Bulldog.css
+-rw-r--r--. 1 ugrad    823 Nov  9 21:39 Bulldog.css~
+-rw-r--r--. 1 ugrad    881 Nov 10 11:40 Christmas.css
+-rw-r--r--. 1 ugrad    823 Nov  9 21:40 Christmas.css~
+-rw-r--r--. 1 ugrad  29429 Nov  9 22:48 easter-bunny.gif
+-rw-r--r--. 1 ugrad    881 Nov 10 11:41 Easter.css
+-rw-r--r--. 1 ugrad    823 Nov  9 21:41 Easter.css~
+-rw-r--r--. 1 ugrad  36285 Nov  9 23:20 Georgia.png
+-rw-r--r--. 1 ugrad  83429 Nov 10 11:22 giphy.gif
+-rw-r--r--. 1 ugrad    876 Nov 10 11:40 Halloween.css
+-rw-r--r--. 1 ugrad    818 Nov  9 21:38 Halloween.css~
+-rw-r--r--. 1 ugrad 119630 Oct 23 22:51 me2.png
+-rw-r--r--. 1 ugrad  38354 Nov  7 12:37 me.png
+
+cs1302-gallery/target:
+total 12
+drwxr-xr-x. 3 ugrad 4096 Nov 12 14:56 classes
+drwxr-xr-x. 3 ugrad 4096 Nov 12 14:56 generated-sources
+drwxr-xr-x. 3 ugrad 4096 Nov 12 14:56 maven-status
+
+cs1302-gallery/target/classes:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 12 14:56 cs1302
+
+cs1302-gallery/target/classes/cs1302:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 12 19:18 gallery
+
+cs1302-gallery/target/classes/cs1302/gallery:
+total 88
+-rw-r--r--. 1 ugrad 2444 Nov 12 19:18 About.class
+-rw-r--r--. 1 ugrad  891 Nov 12 19:18 EasterBunny.class
+-rw-r--r--. 1 ugrad 1801 Nov 12 19:18 GalleryApp$10.class
+-rw-r--r--. 1 ugrad 2215 Nov 12 19:18 GalleryApp$11.class
+-rw-r--r--. 1 ugrad 1553 Nov 12 19:18 GalleryApp$12.class
+-rw-r--r--. 1 ugrad 1023 Nov 12 19:18 GalleryApp$13.class
+-rw-r--r--. 1 ugrad 2911 Nov 12 19:18 GalleryApp$1.class
+-rw-r--r--. 1 ugrad 1028 Nov 12 19:18 GalleryApp$2.class
+-rw-r--r--. 1 ugrad 1035 Nov 12 19:18 GalleryApp$3.class
+-rw-r--r--. 1 ugrad 1418 Nov 12 19:18 GalleryApp$4.class
+-rw-r--r--. 1 ugrad 2724 Nov 12 19:18 GalleryApp$5$1.class
+-rw-r--r--. 1 ugrad 1174 Nov 12 19:18 GalleryApp$5.class
+-rw-r--r--. 1 ugrad 1906 Nov 12 19:18 GalleryApp$6.class
+-rw-r--r--. 1 ugrad 2227 Nov 12 19:18 GalleryApp$7.class
+-rw-r--r--. 1 ugrad 2250 Nov 12 19:18 GalleryApp$8.class
+-rw-r--r--. 1 ugrad 2250 Nov 12 19:18 GalleryApp$9.class
+-rw-r--r--. 1 ugrad 9756 Nov 12 19:18 GalleryApp.class
+-rw-r--r--. 1 ugrad  865 Nov 12 19:18 Georgia.class
+-rw-r--r--. 1 ugrad  850 Nov 12 19:18 Pumpkin.class
+-rw-r--r--. 1 ugrad 1765 Nov 12 19:18 Snow.class
+
+cs1302-gallery/target/generated-sources:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 12 14:56 annotations
+
+cs1302-gallery/target/generated-sources/annotations:
+total 0
+
+cs1302-gallery/target/maven-status:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 12 14:56 maven-compiler-plugin
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 12 14:56 compile
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin/compile:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 12 14:56 default-compile
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r--. 1 ugrad 658 Nov 12 19:18 createdFiles.lst
+-rw-r--r--. 1 ugrad 458 Nov 12 18:14 inputFiles.lst
+/home/ugrads/cheek/cs1302-gallery:/home/work/cs1302a
